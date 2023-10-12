@@ -31,3 +31,5 @@ print("Division:" , (a / b) )
 print("Modulus:" , (a % b) )
 
 print("Floor:" , (a // b) )
+
+print("Exponential:" , (4 ** 2) ) # X^Y

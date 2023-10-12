@@ -29,3 +29,5 @@ print("Multiplication:" , (a * b) )
 print("Division:" , (a / b) )
 
 print("Modulus:" , (a % b) )
+
+print("Floor:" , (a // b) )
